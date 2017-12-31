@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9f1276b1ae35e044eb39548d70dddae4
+timeCreated: 1514648058
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Oak_Tree: {instanceID: 0}
+  - apple: {fileID: 4391357373116716, guid: 06622947b53964a468bd0824385ea1b1, type: 2}
+  - newParent: {fileID: 4913843140328100, guid: 465e2b2802dce0d43948e97cd91067c1,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
